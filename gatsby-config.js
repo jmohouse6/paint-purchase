@@ -14,10 +14,10 @@ module.exports = {
     {
       resolve: 'gatsby-source-cosmicjs',
       options: {
-        bucketSlug: process.env.COSMIC_BUCKET,
+        bucketSlug: 'paint-purchase', process.env.COSMIC_BUCKET,
         objectTypes: ['posts','settings'],
         apiAccess: {
-          read_key: process.env.COSMIC_READ_KEY,
+          read_key: 'XJGS0fiU74kZlw2nA2fI988YzxLYXqUaNSJKdIYI4Vf6speKhd', process.env.COSMIC_READ_KEY,
         },
         localMedia: true
       }
