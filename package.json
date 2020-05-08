@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-blog-cosmicjs",
-  "description": "Gatsby Blog Cosmic JS",
+  "name": "paint-purchase",
+  "description": "Paint Purchase",
   "version": "2.0.0",
-  "author": "Jazib Sawar <jazibsawar@gmail.com>",
+  "author": "Jason Moorhouse <jason@moorhousecoating.com>",
   "bugs": {
     "url": "https://github.com/jazibsawar/gatsby-blog-cosmicjs/issues"
   },
