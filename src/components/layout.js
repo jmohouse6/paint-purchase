@@ -131,40 +131,26 @@ export default ({ children, location }) => (
             powered by&nbsp;
             <a
               target="_blank"
-              href="https://gatsbyjs.org"
+              href="https://moorhousepainting.com"
               style={{
                 color: '#191919',
                 boxShadow: 'none',
               }}
             >
-              <img
-                src={gatsbyLogo}
-                alt="Gatsby JS"
-                style={{
-                  width: '20px',
-                  margin: '0 4px -3px 2px',
-                }}
-              />
-              <strong>Gatsby</strong>
+              
+              <strong>Moorhouse Painting</strong>
             </a>
             &nbsp;and&nbsp;
             <a
               target="_blank"
-              href="https://cosmicjs.com"
+              href="https://moorhousecoating.com"
               style={{
                 color: '#191919',
                 boxShadow: 'none',
               }}
             >
-              <img
-                src={cosmicjsLogo}
-                alt="Cosmic JS"
-                style={{
-                  width: '18px',
-                  margin: '0 4px -2px 5px',
-                }}
-              />
-              <strong>Cosmic JS</strong>
+              
+              <strong>Moorhouse Coating</strong>
             </a>
           </footer>
         </div>
